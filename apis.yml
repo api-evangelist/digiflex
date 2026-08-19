@@ -48,7 +48,7 @@ x-acquisition:
   value: USD 10M (all-stock, 25% of PV Nano Cell fully diluted)
   outcome: wholly-owned subsidiary; brand no longer present on acquirer site
   source: https://finance.yahoo.com/news/pv-nano-cell-closes-acquisition-130000469.html
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-08-10'
 tags:
