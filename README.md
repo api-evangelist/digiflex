@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Digiflex is a company surfaced as a portfolio company of battery-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: battery-ventures
+Digiflex (listed by Battery Ventures as "Digiflex, Ltd.") was an Israeli manufacturer of inkjet-based computer-to-plate and digital printing systems, best known for the Flexojet line of flexographic plate-making printers. It was a hardware company: the product was a physical printing press, not software, so it never had a developer program, a public API, or any machine-readable contract to publish. PV Nano Cell signed a $10M all-stock letter of intent in March 2017 and closed the acquisition on 3 December 2017, folding Digiflex in as a wholly-owned subsidiary to carry the Flexojet systems into printed electronics; Battery Ventures now carries the name on its list-of-all-companies page as an exited investment. The brand has since been fully absorbed — the acquirer's current site (pvnanocell.com, HTTP 200) makes no mention of DigiFlex, and digiflex.com, while still registered through Dynadot to an April 2027 expiry, has no working nameservers and returns SERVFAIL with no A record. The live domains sharing the name are unrelated third parties: digiflex.io is a West Midlands web-design agency, digiflex.co.uk is a separate UK business, and digiflex.ai sits behind a Cloudflare bot challenge with no verifiable link to the Battery investment. No developer portal, documentation, OpenAPI, SDK, package-registry presence, or any other API artifact exists for this company. This profile is retained as an honest record of an acquired and absorbed portfolio lead with no API surface rather than being enriched with speculative attribution.
+
+**Areas:** Company · Battery Ventures · Acquired · Digital Printing · Manufacturing · Israel
+
+## Digiflex on APIs.io (historical record)
+
+Everything profiled for Digiflex is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/digiflex/](https://apis.io/providers/digiflex/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Digiflex: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/digiflex/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
